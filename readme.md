@@ -1,13 +1,13 @@
 # Газиев Ильес
 **Fullstack Developer (Wordpress & Modx & Bitrix)**
 
-**Мобильный телефон:** +7 995 968-11-60
-**Домашний телефон:** +7 905 177-11-60
-**Электронная почта:** gaziev.ilyos@yandex.ru
+* **Мобильный телефон:** +7 995 968-11-60
+* **Домашний телефон:** +7 905 177-11-60
+* **Электронная почта:** gaziev.ilyos@yandex.ru
 
-**Локация:** Брянск 
-**Telegram:** @dfoxys
-**GitHub:** [Github](https://github.com/itgaziev)
+* **Локация:** Брянск 
+* **Telegram:** @dfoxys
+* **GitHub:** [Github](https://github.com/itgaziev)
 
 ---
 
