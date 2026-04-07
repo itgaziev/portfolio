@@ -34,7 +34,7 @@
 
 ---
 
-**Venkon Group** | **Fullstack Developer / Mobile Developer**
+**VDD Group** | **Fullstack Developer / Mobile Developer**
 *Август 2023 — Май 2024*
 
 **Ключевые проекты:**
